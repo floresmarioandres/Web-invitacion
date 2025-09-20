@@ -47,7 +47,7 @@ color: white;
 }
 
 .nav-link:hover {
-    color: #ffe6f0;
+    color: #00000;
 }
 
 /* ---------- Sections ---------- */
@@ -58,7 +58,7 @@ color: white;
 
 .section-title {
     font-size: 2rem;
-    color: #ff69b4;
+    color: #00000;
     margin-bottom: 2rem;
     position: relative;
 }
@@ -68,7 +68,7 @@ color: white;
     display: block;
     width: 80px;
     height: 3px;
-    background: #ff69b4;
+    background: #00000;
     margin: 0.5rem auto 0;
 }
 
@@ -154,7 +154,7 @@ color: white;
 }
 
 .contact-card {
-    background: #fff0f6;
+    background: #00000;
     padding: 1rem;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
@@ -205,4 +205,5 @@ color: white;
         text-align: center;
     }
 }
+
 
